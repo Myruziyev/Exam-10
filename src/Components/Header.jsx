@@ -23,7 +23,7 @@ function Header() {
           <nav>
             <ul className="nav-links">
               <li><a href="/home">Home</a></li>
-              <li><a href="/home">About us</a></li>
+              <li><a href="/about">About us</a></li>
               <li>
                 <button 
                   className="logout-btn" 
